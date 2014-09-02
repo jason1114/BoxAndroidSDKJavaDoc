@@ -1,6 +1,10 @@
 Box Android SDK
 ===============
 
+JavaDoc
+--------
+[http://jason1114.github.io/BoxAndroidSDKJavaDoc/javadoc/](http://jason1114.github.io/BoxAndroidSDKJavaDoc/javadoc/)
+
 Building
 --------
 The Android SDK depends on the [Box Java SDK][java-sdk], so you must first
